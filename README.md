@@ -1,2 +1,5 @@
 # public-favorites
-Simple repository to save favorite links
+
+# Prompt Engineering
+
+- [Google Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
