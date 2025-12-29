@@ -1,4 +1,8 @@
 # Open Favorites Bar
+
+## Data Science
+- [PT - Estatística e Ciência de Dados - Youtube Channel](https://www.youtube.com/@cibelerussousp) 
+
 ## Prompt Engineering
 
 - [Agentic Design Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)
